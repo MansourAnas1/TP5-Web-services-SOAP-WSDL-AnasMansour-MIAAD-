@@ -1,7 +1,11 @@
  1. Créer un Web service qui permet de :
+
   • Convertir un montant de l’euro en DH 
+
   • Consulter un Compte 
+
   • Consulter une Liste de comptes
+
 
 ![1-Classe BanqueService](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/1a341421-d296-4d6b-8534-2bf9cc2f3ba6)
 # classe Compte :
