@@ -1,7 +1,8 @@
-![3-XSD](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/35c2929a-df4e-4358-9a20-c7fb0aee5fe9)## 1. Créer un Web service qui permet de :
+)## 1. Créer un Web service qui permet de :
   • Convertir un montant de l’euro en DH 
   • Consulter un Compte 
   • Consulter une Liste de comptes
+
 ![1-Classe BanqueService](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/1a341421-d296-4d6b-8534-2bf9cc2f3ba6)
 # classe Compte :
 ![1-Classe Compte](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/c8fdfbce-a89b-4bb4-9f30-422a9607311e)
