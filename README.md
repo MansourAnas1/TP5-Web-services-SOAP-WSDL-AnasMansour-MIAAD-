@@ -1,4 +1,4 @@
-)## 1. Créer un Web service qui permet de :
+ 1. Créer un Web service qui permet de :
   • Convertir un montant de l’euro en DH 
   • Consulter un Compte 
   • Consulter une Liste de comptes
@@ -7,11 +7,11 @@
 # classe Compte :
 ![1-Classe Compte](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/c8fdfbce-a89b-4bb4-9f30-422a9607311e)
 
-##2. Déployer le Web service avec un simple Serveur JaxWS
+2. Déployer le Web service avec un simple Serveur JaxWS
 
 ![2](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/bf3e8a4e-5571-4241-97ed-30d8caceda0b)
 
-## 3. Consulter et analyser le WSDL avec un Browser HTTP
+3. Consulter et analyser le WSDL avec un Browser HTTP
 WSDL : 
 ![3-WSDL](https://github.com/MansourAnas1/TP5-Web-services-SOAP-WSDL-AnasMansour-MIAAD-/assets/167020036/3e96ffc4-a111-4f3c-bd7d-a0993c366164)
 
